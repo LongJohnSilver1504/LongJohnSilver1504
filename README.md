@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Daher, I'm 30 years old. I'm a computer scientist, software craftsman, and, by default, someone passionate about software development. I always try to solve problems with simple solutions and clean code. I am a team player and I am constantly trying to improve my team by learning, teaching, and sharing. I am always curious and love to experiment with new tools, languages, or frameworks. I am in a constant search for better and more efficient ways to deliver value through software, to be a better professional and a better person.
+
+[![Alex's github stats](https://github-readme-stats.vercel.app/api?username=LongJohnSilver1504&theme=tokyonight&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LongJohnSilver1504&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **LongJohnSilver1504/LongJohnSilver1504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
